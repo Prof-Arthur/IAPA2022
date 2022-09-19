@@ -2,4 +2,6 @@
 
 ## Links úteis:
 
- - Quiz matrizes: https://forms.gle/nkaPpZacCgUWxv6j8
+ - Exercício análise exploratória: Abrir o arquivo "Exercicio-Pandas--Analise-Dados.ipynb" e resolver as questões.
+
+ - Link drive dataset Prouni: https://drive.google.com/file/d/1BD7F1GPamcXSMxvCrDb_9XjFJX4XBtEt/view?usp=sharing
