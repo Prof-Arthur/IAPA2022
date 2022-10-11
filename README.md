@@ -2,6 +2,8 @@
 
 ## Links úteis:
 
+ - Gravação aula de revisão: https://animaeducacao.zoom.us/rec/share/37DJWxgMPPnIjBClCsXP7KjF7bAglcPpH4qjiv2r94zj8e1llQS6woQo4KjhRcEo.uSVTPuperWNPRqXc
+
  - Drive com PDFs e PPTs: https://laureatelatambr-my.sharepoint.com/:f:/g/personal/arthur_rocha_ecossistemaanima_com_br/EsmSv8vXHwRImo6LQCuPvToBf7Y6LmF536fW07qS3DoCLA?e=C8pxFK
 
  - Exercício Matrizes: https://forms.gle/MNMHZbwaYNPJnfEL7
